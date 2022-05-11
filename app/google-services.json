@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "495722667079",
+    "project_id": "whatsclone-33e94",
+    "storage_bucket": "whatsclone-33e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495722667079:android:359d5c65042a5e872f2562",
+        "android_client_info": {
+          "package_name": "com.example.whatsclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495722667079-bibm0p06e53unprjne0ve9srke6o7k3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsclone",
+            "certificate_hash": "07d99118b0e1ce4df769589095d113823c4e58ec"
+          }
+        },
+        {
+          "client_id": "495722667079-muj853fer1rm0lq19kln12dg13t6gbge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Nk8m4XNuP3Rt9mkQUQoiRRBhYz6FVL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495722667079-muj853fer1rm0lq19kln12dg13t6gbge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
